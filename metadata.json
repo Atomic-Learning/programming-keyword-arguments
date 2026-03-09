@@ -1,0 +1,22 @@
+{
+    "title": "Programming: Keyword Arguments",
+    "slug": "programming-keyword-arguments",
+    "description": "Understand keyword arguments as named argument passing, and how they differ from positional arguments in languages that support them.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "programming",
+        "pseudocode"
+    ],
+    "duration": 4,
+    "prerequisites": [
+        "programming-calling-functions",
+        "programming-defining-functions",
+        "programming-default-function-arguments",
+        "programming-concatenation"
+    ],
+    "related": [
+        "python-keyword-and-default-arguments"
+    ]
+}
